@@ -19,6 +19,7 @@ The dataset is gathered by web scraping from "https://iran.1stquest.com/hotel". 
 - Hypothesis 3- Price vs. Rating by location: 
 Analyzing price ranges within different locations could reveal trends, such as budget hotels in one area having similar ratings to mid-range hotels in another.
 
+---
 ### Findings and suggestion   
 Most expensive hotels are located in <b> Kish island </b> is famous for beaches and water sports and then in <b>Tehran</b> which is the capital city.  
 <img width="741" alt="image" src="https://github.com/Negar86/Project1/assets/160590005/d8964e3f-40a9-40bc-8c33-6e3c91ea6add">
