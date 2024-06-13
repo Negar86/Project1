@@ -1,7 +1,7 @@
 
 ![Espinas-Palace-Hotel-Tehran-20](https://github.com/Negar86/Project1/assets/160590005/97111bc7-13ee-43ca-9e0f-b7e619b4d470)
 
-## Price and Rating Analysis for Hotels in iran
+## Price and Rating Analysis for Hotels in Iran
 
 ### Introduction:   
 The goal of this project is to collect data about hotels in iran through web scraping then perform analyses based on the acquired information,enabling us to gain valuable insights into consumer trends and preferences across different geographical locations.
@@ -20,14 +20,29 @@ The dataset is gathered by web scraping from "https://iran.1stquest.com/hotel". 
 Analyzing price ranges within different locations could reveal trends, such as budget hotels in one area having similar ratings to mid-range hotels in another.
 
 ---
-### Findings and suggestion   
-Most expensive hotels are located in <b> Kish island </b> is famous for beaches and water sports and then in <b>Tehran</b> which is the capital city.  
+### Findings and Suggestions:   
+* Most expensive hotels are located in <b> Kish island </b> is famous for beaches and water sports and then in <b>Tehran</b> which is the capital city.  
 <img width="741" alt="image" src="https://github.com/Negar86/Project1/assets/160590005/d8964e3f-40a9-40bc-8c33-6e3c91ea6add">
 
 Future Considerations: Investigate if the result is the same during other seasons.
 
+-----
 
-4 stars Hotels in ancient cities have higher price than the 5 stars maybe because tourists prefer to stay in traditional hotels which are rating 4 stars. 
+
+<img width="715" alt="image" src="https://github.com/Negar86/Project1/assets/160590005/d268a667-2fb6-45a3-bc0c-a7cd5ceec12d">   
+
+* Kish and Qeshm island : luxury hotels and then economy        
+* Yazd and Kashan: Traditional hotels   
+* Shiraz: Traditional, luxury and economy    
+* Isfahan: Economy, traditinal, luxary and business    
+* Mashhad: Luxary and economy    
+* Tehran: economy, luxury and then business    
+
+Future Considerations: Relationship between location of the hotel price and how close is hotel to tourist visits sites.
+
+----
+
+* 4 stars Hotels in ancient cities have higher price than the 5 stars maybe because tourists prefer to stay in traditional hotels.    
 <img width="502" alt="image" src="https://github.com/Negar86/Project1/assets/160590005/2562f14e-74b5-4e37-a7a1-b38b4a04a6b2">
 
 Future Considerations: Relationship between location of the hotel and tourist attraction areas distance impact the price and rate of the hotels.
